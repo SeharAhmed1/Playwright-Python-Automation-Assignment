@@ -1,4 +1,4 @@
-# Python Playwright Automation Assignment
+# Playwright Python Automation Assignment
 
 ## Assignment Coverage
 
